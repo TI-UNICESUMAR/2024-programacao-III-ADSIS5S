@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "nome": "bulbasaur",
+    "tipos": [
+      "grass",
+      "poison"
+    ],
+    "peso": 69,
+    "altura": 7,
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+  },
+  {
+    "id": 2,
+    "nome": "ivysaur",
+    "tipos": [
+      "grass",
+      "poison"
+    ],
+    "peso": 130,
+    "altura": 10,
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+  },
+  {
+    "id": 3,
+    "nome": "venusaur",
+    "tipos": [
+      "grass",
+      "poison"
+    ],
+    "peso": 1000,
+    "altura": 20,
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+  },
+  {
+    "id": 4,
+    "nome": "charmander",
+    "tipos": [
+      "fire"
+    ],
+    "peso": 85,
+    "altura": 6,
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+  },
+  {
+    "id": 5,
+    "nome": "charmeleon",
+    "tipos": [
+      "fire"
+    ],
+    "peso": 190,
+    "altura": 11,
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+  },
+  {
+    "id": 6,
+    "nome": "charizard",
+    "tipos": [
+      "fire",
+      "flying"
+    ],
+    "peso": 905,
+    "altura": 17,
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+  },
+  {
+    "id": 7,
+    "nome": "squirtle",
+    "tipos": [
+      "water"
+    ],
+    "peso": 90,
+    "altura": 5,
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+  },
+  {
+    "id": 8,
+    "nome": "wartortle",
+    "tipos": [
+      "water"
+    ],
+    "peso": 225,
+    "altura": 10,
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+  },
+  {
+    "id": 9,
+    "nome": "blastoise",
+    "tipos": [
+      "water"
+    ],
+    "peso": 855,
+    "altura": 16,
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+  },
+  {
+    "id": 10,
+    "nome": "caterpie",
+    "tipos": [
+      "bug"
+    ],
+    "peso": 29,
+    "altura": 3,
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
+  },
+  {
+    "id": 11,
+    "nome": "metapod",
+    "tipos": [
+      "bug"
+    ],
+    "peso": 99,
+    "altura": 7,
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
+  },
+  {
+    "id": 12,
+    "nome": "butterfree",
+    "tipos": [
+      "bug",
+      "flying"
+    ],
+    "peso": 320,
+    "altura": 11,
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
+  }
+]
