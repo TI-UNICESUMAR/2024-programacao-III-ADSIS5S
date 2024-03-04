@@ -1,0 +1,14 @@
+{
+  "name": "adsis5s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "produtos.js",
+  "type": "module",
+  "scripts": {
+    "start": "node alunos/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
