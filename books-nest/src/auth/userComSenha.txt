@@ -1,0 +1,10 @@
+1 - Criar um DTO de usuário
+2 - Criar um schema de usuário
+3 - Criar os métodos do CRUD de usuário
+4 - Criar a controller de usuário e chamar as rotas 
+(os métodos padrão do CRUD não podem mais retornar a senha)
+5 - Ter um método que retornar o usuário por username ou email
+6 - Usar o bcrypt para fazer o hash da senha
+7 - Alterar o create para salvar a senha com hash
+8 - Ir na auth.service, mudar o método para buscar o usuário
+9 - Usar o bcrypt.compare para fazer o match da senha

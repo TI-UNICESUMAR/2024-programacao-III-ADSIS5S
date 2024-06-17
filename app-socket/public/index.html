@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat de ADS</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.7.5/socket.io.js"
+        integrity="sha512-luMnTJZ7oEchNDZAtQhgjomP1eZefnl82ruTH/3Oj/Yu5qYtwL7+dVRccACS/Snp1lFXq188XFipHKYE75IaQQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="websocket-client.js"></script>
+</head>
+
+<body>
+    <h1>Web Socket Client</h1>
+    <input type="text" id="messageInput" placeholder="Digite sua mensagem aqui" />
+    <button id="sendButton">Enviar Mensagem</button>
+    <ul id="messages"></ul>
+</body>
+
+</html>
